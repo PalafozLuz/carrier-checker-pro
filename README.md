@@ -1,7 +1,7 @@
 # Phone Number Carrier Lookup
 # 电话号码运营商查询
 
-![Phone Number Carrier Lookup](https://raw.githubusercontent.com/pycoding20/number-carrier-checker/refs/heads/main/carrier-checker.png)
+![Phone Number Carrier Lookup](https://raw.githubusercontent.com/pythoncode26/carrier-checker-pro/refs/heads/main/carrier-checker.png)
 
 ## Features:
 1. **Global Support** Utilizes a robust core for phone number validation across a wide range of international prefixes (206 countries supported).
